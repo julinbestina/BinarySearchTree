@@ -7,6 +7,7 @@ public class BinaryNode<K extends Comparable> {
     BinaryNode<K> right;
 
     public BinaryNode(K key) {
+
         this.key = key;
     }
 
